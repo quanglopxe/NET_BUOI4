@@ -27,11 +27,11 @@ namespace DuongThuanQuang_Bai7
             get { return _banKinh; }
             set { _banKinh = value; }
         }
-        public double tinhChuVi()
+        public double TinhChuVi()
         {
             return BanKinh * 2 * Math.PI;
         }
-        public double tinhDienTich()
+        public double TinhDienTich()
         {
             return BanKinh * BanKinh * Math.PI;
         }

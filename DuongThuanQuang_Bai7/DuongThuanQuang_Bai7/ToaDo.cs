@@ -38,7 +38,7 @@ namespace DuongThuanQuang_Bai7
             get { return y; }
             set { y = value; }
         }
-        public string toString()
+        public string ToString()
         {
             return _ten+"("+x+","+y+")";
         }
