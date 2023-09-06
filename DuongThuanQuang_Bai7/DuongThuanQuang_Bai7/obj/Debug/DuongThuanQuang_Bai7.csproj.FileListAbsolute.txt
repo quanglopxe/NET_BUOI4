@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\DuongThuanQuang\DuongThuanQuang_Bai7\DuongThuanQuang_Bai7\bin\Debug\DuongThuanQuang_Bai7.exe.config
+E:\LuuDuLieuSinhVien\DuongThuanQuang\DuongThuanQuang_Bai7\DuongThuanQuang_Bai7\bin\Debug\DuongThuanQuang_Bai7.exe
+E:\LuuDuLieuSinhVien\DuongThuanQuang\DuongThuanQuang_Bai7\DuongThuanQuang_Bai7\bin\Debug\DuongThuanQuang_Bai7.pdb
+E:\LuuDuLieuSinhVien\DuongThuanQuang\DuongThuanQuang_Bai7\DuongThuanQuang_Bai7\obj\Debug\DuongThuanQuang_Bai7.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\DuongThuanQuang\DuongThuanQuang_Bai7\DuongThuanQuang_Bai7\obj\Debug\DuongThuanQuang_Bai7.exe
+E:\LuuDuLieuSinhVien\DuongThuanQuang\DuongThuanQuang_Bai7\DuongThuanQuang_Bai7\obj\Debug\DuongThuanQuang_Bai7.pdb
