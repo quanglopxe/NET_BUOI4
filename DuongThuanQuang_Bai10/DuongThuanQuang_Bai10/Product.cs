@@ -19,11 +19,21 @@ namespace DuongThuanQuang_Bai10
             this.productID = productID;
             this._price = _price;
         }
+
         public string Description
         {
             get { return _description; }
             set { _description = value; }
         }
-        public 
+        public string ProductID
+        {
+            get { return productID; }
+            set { productID = value; }
+        }
+        public double Price
+        {
+            get { return _price; }
+            set { _price = value; }
+        }    
     }
 }
