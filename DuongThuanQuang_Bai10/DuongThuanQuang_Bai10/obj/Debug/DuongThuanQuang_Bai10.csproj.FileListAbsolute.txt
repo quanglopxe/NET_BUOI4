@@ -6,3 +6,6 @@ D:\d\NET_BUOI4\DuongThuanQuang_Bai10\DuongThuanQuang_Bai10\bin\Debug\DuongThuanQ
 D:\d\NET_BUOI4\DuongThuanQuang_Bai10\DuongThuanQuang_Bai10\obj\Debug\DuongThuanQuang_Bai10.exe
 D:\d\NET_BUOI4\DuongThuanQuang_Bai10\DuongThuanQuang_Bai10\obj\Debug\DuongThuanQuang_Bai10.pdb
 D:\d\NET_BUOI4\DuongThuanQuang_Bai10\DuongThuanQuang_Bai10\obj\Debug\DuongThuanQuang_Bai10.csprojResolveAssemblyReference.cache
+D:\d\DuongThuanQuang_Buoi4\NET_BUOI4\DuongThuanQuang_Bai10\DuongThuanQuang_Bai10\bin\Debug\DuongThuanQuang_Bai10.exe.config
+D:\d\DuongThuanQuang_Buoi4\NET_BUOI4\DuongThuanQuang_Bai10\DuongThuanQuang_Bai10\obj\Debug\DuongThuanQuang_Bai10.exe
+D:\d\DuongThuanQuang_Buoi4\NET_BUOI4\DuongThuanQuang_Bai10\DuongThuanQuang_Bai10\obj\Debug\DuongThuanQuang_Bai10.pdb
